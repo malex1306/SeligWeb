@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+
+}
+
+.AreaList{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 10vh;
+    background-color: lightgray;
+    border-radius: 2em;
+    margin: 5vw;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    background-color: gray;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.AreaA{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    margin-right: 20px;
+}
+
+.AreaB{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 40px;
+    margin-right: 10px;
+    padding: 10px;
+
+}
+.pic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3em;
+    padding: 2em;
+}
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn1 {
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    font-size: 1em;
+    margin-top: 2em;
+
+}
+
+
