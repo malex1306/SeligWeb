@@ -13,6 +13,7 @@ body {
     background-color: lightgray;
     border-radius: 2em;
     margin: 5vw;
+    border: 0.1em solid black;
 }
 
 .header {
